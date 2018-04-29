@@ -19,7 +19,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
+ * W = Up
+ * S = Down
+ * A = Left
+ * D = Right
  */
 public class Main extends Application {
 
